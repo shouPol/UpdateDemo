@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="new_light_blue">#f8f9f9</color>
+    <color name="content_color">#505a78</color>
+    <color name="gray_text">#2c3e50</color>
+    <color name="item_content_new">#325181</color>
+    <color name="item_color">#7b8994</color>
+    <color name="gray_divider_line">#e1e1e1</color>
+</resources>
