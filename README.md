@@ -1,5 +1,8 @@
 # UpdateDemo
 兼容android7.0,8.0以上的APP版本升级demo
+演示：
+![image](https://github.com/shouPol/UpdateDemo/blob/master/updateDemo2.gif) ![image](https://github.com/shouPol/UpdateDemo/blob/master/updateDemo1.gif)
+
 原理：
 
 1.将新版本上传到自己的服务器，有服务器将最新版本信息记录
